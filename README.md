@@ -19,6 +19,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/760506230677569586) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raddva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radiva) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@letdya) 
 
 ## 💻 Tech Stack
+<details>
+  <summary>Show Details</summary>
 
 🖥️ :
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -54,10 +56,12 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
+</details>
 
 ## 📊 GitHub Stats
 <details>
-
+  <summary>Show Details</summary>
+  
   ![](https://nirzak-streak-stats.vercel.app/?user=raddva&theme=dark&hide_border=false)  
   ![](https://github-readme-stats.vercel.app/api?username=raddva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raddva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
