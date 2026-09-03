@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81D4FA,100:0D47A1&height=180&section=header&text=Hello,%20I'm%20Nadya/Nea%20%E2%9C%A7&fontSize=50&fontColor=ffffff&desc=Choreographing%20Code%20in%20the%20Digital%20Realm%20%E2%9D%84%EF%B8%8F%F0%9F%A6%A2&descAlignY=75&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81D4FA,100:0D47A1&height=180&section=header&text=Hi,%20It's%20Nea%20%E2%9C%A7&fontSize=50&fontColor=ffffff&desc=Choreographing%20Code%20in%20the%20Digital%20Realm%20%E2%9D%84%EF%B8%8F%F0%9F%A6%A2&descAlignY=75&descAlign=62" width="100%"/>
 </div>
 
 ## 🦢 About Me
