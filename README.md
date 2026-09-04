@@ -75,30 +75,6 @@ I am a first-year Informatics student at [Telkom University](https://bif.telkomu
 ![Figma](https://img.shields.io/badge/figma-C5A059?style=flat-square&logo=figma&logoColor=white)
 </details>
 
-## 🩰 GitHub Stats
-<details>
-  <summary><b>Show Details</b></summary>
-  
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=raddva&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=raddva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raddva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </p>
-
-</details>
-
-## 🏆 GitHub Trophies
-<details>
-  <summary><b>Show Trophies</b></summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=raddva&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </p>
-</details>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:81D4FA&height=100&section=footer" width="100%"/>
 </div>
